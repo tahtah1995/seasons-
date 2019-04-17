@@ -1,0 +1,2 @@
+hello this app using node so to view the website so please use this command
+npm install 
